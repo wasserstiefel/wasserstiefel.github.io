@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Architecture Student Based in Paris
-ENSA Paris-Belleville
+Hi, my name is Ivan, I'm 20 years old and live in Paris
+
+I study Architecture at ENSA Paris-Belleville.
+
 
 ### More Information
 
-ES/EN/FR/LAT
+On my free time I like to read philosohpy and take pictures, feel free to check them out on my portfolio.
+
+thank you for checking my personal website!
 
 ### Contact me
 
