@@ -11,7 +11,7 @@ I study Architecture at [ENSA Paris-Belleville](https://www.paris-belleville.arc
 
 ### More Information
 
-in my free time I like to read philosohpy and take pictures, feel free to check them out on my portfolio (-:
+in my free time I like to read philosophy and take pictures, feel free to check them out on my portfolio (-:
 
 thank you for checking my personal website!
 
