@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Architecture Student Based in Paris
+ENSA Paris-Belleville
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+ES/EN/FR/LAT
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chavezromeroivan@gmail.com](mailto:chavezromeroivan@gmail.com)
