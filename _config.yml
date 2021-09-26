@@ -9,7 +9,7 @@ name:
 title: wasserstiefel
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
-lightavatar: /assets/images/logo.png
+lightavatar: /assets/images/logoblack.png
 # Avatar for dark mode site
 darkavatar: /assets/images/logowhite.png
 
@@ -28,7 +28,7 @@ url:
 baseurl: ""
 
 # global author information
-author: andrew-park
+author: Ivan Chavez
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
 logo: /assets/images/light_bauhaus_logo.png
