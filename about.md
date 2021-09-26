@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Ivan, I'm 20 years old and live in Paris
+hi, my name is Ivan, I'm 20 years old and currently live in Paris.
 
-I study Architecture at ENSA Paris-Belleville.
+I study Architecture at [ENSA Paris-Belleville](https://www.paris-belleville.archi.fr/).
 
 
 ### More Information
 
-On my free time I like to read philosohpy and take pictures, feel free to check them out on my portfolio.
+in my free time I like to read philosohpy and take pictures, feel free to check them out on my portfolio (-:
 
 thank you for checking my personal website!
 
