@@ -44,9 +44,9 @@ footer-links:
   facebook:
   github: 
   instagram: wasserstiefel
-  linkedin: https://www.linkedin.com/in/wasserstiefel/
+  linkedin: wasserstiefel
   rss: 
-  twitter: 
+  twitter: wasserstiefel
 
 plugins:
   - jekyll-seo-tag
