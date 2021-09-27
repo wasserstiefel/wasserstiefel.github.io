@@ -46,7 +46,7 @@ footer-links:
   instagram: wasserstiefel
   linkedin: wasserstiefel
   rss: 
-  twitter: wasserstiefel
+  twitter: 
 
 plugins:
   - jekyll-seo-tag
