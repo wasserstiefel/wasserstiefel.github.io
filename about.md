@@ -8,7 +8,7 @@ Hi, my name is **Ivan Chavez**, I'm from Mexico and I'm 20 years old, currently 
 
 I study Architecture at [ENSA Paris-Belleville](https://www.paris-belleville.archi.fr/)
 
-
+<pre>
 
 
 
@@ -17,7 +17,7 @@ I study Architecture at [ENSA Paris-Belleville](https://www.paris-belleville.arc
 Interested in Philosophy, History and Photography as well, feel free to write me to collaborate!
 
 
-
+</pre>
 
 
 ### Contact me
