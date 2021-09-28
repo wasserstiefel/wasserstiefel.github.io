@@ -10,9 +10,15 @@ I study Architecture at [ENSA Paris-Belleville](https://www.paris-belleville.arc
 
 
 
+
+
 ### More Information
 
 Interested in Philosophy, History and Photography as well, feel free to write me to collaborate!
+
+
+
+
 
 ### Contact me
 
