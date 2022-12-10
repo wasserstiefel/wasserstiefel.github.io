@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is **Ivan Chavez**, I'm from Mexico and I'm 20 years old, currently based in Paris
+Hi, my name is **Ivan Chavez**
 
 I study Architecture at [ENSA Paris-Belleville](https://www.paris-belleville.archi.fr/)
 
